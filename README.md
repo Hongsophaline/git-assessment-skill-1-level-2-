@@ -32,6 +32,7 @@ By the end of the project, you should be able to:
 • Create and manage branches in Git. 
 
 • Use GitHub pull requests for collaboration. 
+
 • Resolve merge conflicts manually. 
 
 • Follow the Git flow process in a team environment. 
@@ -59,4 +60,11 @@ Additionally, you will use GitHub's pull request and issue tracking features for
 
 To get started with the project, follow these steps to clone the repository, set up your development environment, and begin working with Git.
 
+## Step 1: Clone the Repository
+
+Clone the project to your local machine:
+
+```bash
+git clone https://github.com/Hongsophaline/git-assessment-skill-1-level-2-.git
+```
 
